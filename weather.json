@@ -1,0 +1,26 @@
+[
+  {
+    "station_id": 1,
+    "station_name": "Kyiv Central",
+    "date": "2024-01-15",
+    "temperature_c": -5,
+    "humidity": 85,
+    "wind_speed_kmh": 10
+  },
+  {
+    "station_id": 2,
+    "station_name": "Lviv Observatory",
+    "date": "2024-01-15",
+    "temperature_c": -3,
+    "humidity": 78,
+    "wind_speed_kmh": 15
+  },
+  {
+    "station_id": 1,
+    "station_name": "Kyiv Central",
+    "date": "2024-07-20",
+    "temperature_c": 28,
+    "humidity": 55,
+    "wind_speed_kmh": 5
+  }
+]
