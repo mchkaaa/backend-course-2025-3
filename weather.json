@@ -3,24 +3,40 @@
     "station_id": 1,
     "station_name": "Kyiv Central",
     "date": "2024-01-15",
+    "Rainfall": 0,
+    "Pressure3pm": 1015,
+    "Humidity3pm": 29,
     "temperature_c": -5,
-    "humidity": 85,
     "wind_speed_kmh": 10
   },
   {
     "station_id": 2,
     "station_name": "Lviv Observatory",
     "date": "2024-01-15",
+    "Rainfall": 3.6,
+    "Pressure3pm": 1008.4,
+    "Humidity3pm": 36,
     "temperature_c": -3,
-    "humidity": 78,
     "wind_speed_kmh": 15
   },
   {
     "station_id": 1,
     "station_name": "Kyiv Central",
     "date": "2024-07-20",
+    "Rainfall": 1.2,
+    "Pressure3pm": 1010.2,
+    "Humidity3pm": 45,
     "temperature_c": 28,
-    "humidity": 55,
     "wind_speed_kmh": 5
+  },
+  {
+    "station_id": 3,
+    "station_name": "Odessa Port",
+    "date": "2024-07-20",
+    "Rainfall": 0.5,
+    "Pressure3pm": 1012.8,
+    "Humidity3pm": 52,
+    "temperature_c": 25,
+    "wind_speed_kmh": 8
   }
 ]
